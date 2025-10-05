@@ -1,0 +1,10 @@
+{
+  "appId": "app.lovable.7572d5c1162b448287c82d0208b08da5",
+  "appName": "Idea Vault",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "https://7572d5c1-162b-4482-87c8-2d0208b08da5.lovableproject.com?forceHideBadge=true",
+    "cleartext": true
+  }
+}
