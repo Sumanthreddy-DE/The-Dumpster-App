@@ -33,7 +33,7 @@ const Index = () => {
         {/* Header */}
         <div className="text-center mb-12 animate-fade-in">
           <h1 className="text-4xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent mb-2">
-            Idea Vault
+            Dumpster
           </h1>
           <p className="text-muted-foreground">Capture your ideas, never forget them</p>
         </div>
